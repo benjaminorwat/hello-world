@@ -1,1 +1,3 @@
-hello World!
+Hello World!
+
+var http = require('http');
